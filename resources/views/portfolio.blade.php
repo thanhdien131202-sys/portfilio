@@ -20,7 +20,7 @@
                     <h1>Nguyễn Thanh Điền</h1>
                     <div class="subtitle">
                         <span>Hỗ trợ IT</span>
-                        <span>Mạng</span>
+                        <span>Netwwork</span>
                         <span>Hỗ trợ người dùng</span>
                         <span>Hệ thống</span>
                     </div>
