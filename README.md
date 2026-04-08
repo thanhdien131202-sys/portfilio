@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio - Minh Tuấn
 
 Portfolio website cho Minh Tuấn - IT Helpdesk Specialist, xây dựng bằng Laravel & Blade Template.
@@ -89,3 +90,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# portfilio
+portfilio of dienng
+>>>>>>> 9dd131a376f96cc81a13a75877aaf36a4e20bdbe
