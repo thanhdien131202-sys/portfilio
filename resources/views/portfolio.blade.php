@@ -176,11 +176,12 @@
         <section>
             <h2 class="section-title">Học vấn</h2>
             <div class="education-item">
-                <div class="education-degree">Cử nhân Kỹ thuật Máy tính</div>
-                <div class="education-school">Đại học Bách khoa TP - Hồ Chí Minh</div>
-                <div class="education-date">2018 — 2019 • GPA 2.5/4.0</div>
+                <div class="education-degree">Cử nhân công nghệ phần mềm</div>
+                <div class="education-school">Cao đẳng kĩ thuật Cao Thắng - CKC</div>
+                <div class="education-date">2020 — 2023 • GPA 2.8/4.0</div>
                 <div class="education-description">
-                    Chuyên ngành Hệ thống Mạng và Mạng máy tính. Tốt nghiệp loại giỏi. Tham gia 20+ đề tài nghiên cứu và đạt giải thưởng trong các cuộc thi lập trình và thiết kế hệ thống.
+                    Chuyên ngành công nghệ phần mềm, tập trung vào phát triển ứng dụng và quản trị hệ thống. 
+                    Tham gia các dự án thực tế về phát triển phần mềm và hỗ trợ IT trong môi trường học tập.
                 </div>
             </div>
         </section>
