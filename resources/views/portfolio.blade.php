@@ -149,25 +149,13 @@
                     <div class="cert-icon">🏆</div>
                     <div class="cert-name">CompTIA A+</div>
                     <div class="cert-issuer">CompTIA</div>
-                    <div class="cert-year">2021</div>
+                    <div class="cert-year">2026</div>
                 </div>
                 <div class="cert-card">
                     <div class="cert-icon">📚</div>
                     <div class="cert-name">ITIL 4 Foundation</div>
                     <div class="cert-issuer">AXELOS</div>
                     <div class="cert-year">2022</div>
-                </div>
-                <div class="cert-card">
-                    <div class="cert-icon">☁️</div>
-                    <div class="cert-name">MS-900 M365 Fundamentals</div>
-                    <div class="cert-issuer">Microsoft</div>
-                    <div class="cert-year">2021</div>
-                </div>
-                <div class="cert-card">
-                    <div class="cert-icon">🌐</div>
-                    <div class="cert-name">CompTIA Network+</div>
-                    <div class="cert-issuer">CompTIA</div>
-                    <div class="cert-year">2021</div>
                 </div>
             </div>
         </section>
